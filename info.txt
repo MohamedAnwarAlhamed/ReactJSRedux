@@ -1,0 +1,4 @@
+npm i redux react-redux
+npm i redux-logger
+npm i install --save redux-devtools-extension
+npm i axios redux-thunk
