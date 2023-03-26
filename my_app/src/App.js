@@ -5,6 +5,7 @@ import ICECREAMCONTAINER from './components/IceCreamContainer';
 import HOOKSICECREAMCONTAINER from './components/HooksIceCreamContainer';
 import NEWCAKECONTAINER from './components/NewCakeContainer';
 import ITEMCONTAINER from './components/ItemContainer';
+import USERCONTAINER from './components/UserContainer';
 
 function App() {
   return (
@@ -18,6 +19,8 @@ function App() {
       <HOOKSICECREAMCONTAINER/>
       ####################################
       <NEWCAKECONTAINER/>
+      ####################################
+      <USERCONTAINER/>
 
     </div>
   );
